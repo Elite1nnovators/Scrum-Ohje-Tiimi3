@@ -1,2 +1,3 @@
 # Scrum-Ohje-Tiimi3
-Kuvitteellisen kehitystiimin Scrum-ohje
+lala laa
+scrum ohjeesta kirjoittelua :D
