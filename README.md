@@ -23,4 +23,4 @@ Definition of Done (DoD) on selkeä ja yhteisesti sovittu kriteeristö, joka mä
 * Koodi on kirjoitettu ja testattu yksikkö- ja integraatiotesteillä
 * Ominaisuus on dokumentoitu asianmukaisesti
 * Koodi on läpäissyt koodikatselmoinnin
-* Ominaisuus on integroitu päähaaraan ja deployattu testausympäristöön
+* Ominaisuus on integroitu päähaaraan ja deployattu testausympäristöön.
