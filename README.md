@@ -3,16 +3,16 @@ Kuvitteellisen kehitystiimin Scrum-ohje
 
 ## Työjonot
 
-Kaksi päätyyppistä työjonoa:
+**Kaksi päätyyppistä työjonoa:**
 ### Tuotejono (Product Backlog)
 Syntyy vähitellen listaamaan mahdolliset tehtävät ja ominaisuudet tuotteelle. Tuotejono on jatkuvasti kehittyvä, järjestetty lista tarvittavista parannuksista tuotteeseen. Se on ainoa työlista, jota Scrum-tiimi käyttää. Backlogiin kuuluvat tehtävät, jotka tiimi voi suorittaa yhden Sprintin aikana, ovat valmiita valittavaksi Sprintin suunnittelussa. Näiden tehtävien tarkkuus paranee, kun niitä pilkotaan pienemmiksi ja tarkemmiksi osiksi Backlogin tarkennusvaiheessa. Tämä on jatkuva prosessi, jossa lisätään yksityiskohtia, kuten kuvaus, järjestys ja koko. Työn suorittavat kehittäjät vastaavat tehtävien koon arvioinnista, ja tuoteomistaja voi vaikuttaa heihin auttamalla ymmärtämään eri vaihtoehtoja ja kompromisseja.
 
-Lähde:  Scrum Guide. https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf
+*Lähde:  Scrum Guide. https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf*
 
 ### Sprintin työjono (Sprint Backlog)
 Sprintin työlista, joka koostuu kohteista, jotka tiimi pyrkii toteuttamaan sprintin aikana. Sprintin työjono koostuu sprintin tavoitteesta (miksi), sprintille valituista tuotejonon tehtävistä (mitä) ja toimintasuunnitelmasta inkrementin toteuttamiseksi (miten). Se on kehittäjien itselleen tekemä suunnitelma ja tarjoaa reaaliaikaisen kuvan työstä, joka heidän on tarkoitus suorittaa sprintin aikana tavoitteen saavuttamiseksi. SSprintin työjonoa päivitetään sprintin aikana uusien oppien mukaan, ja siinä tulee olla riittävästi yksityiskohtia, jotta kehittäjät voivat seurata edistymistään.
 
-Lähde: Scrum Guide. https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf
+*Lähde: Scrum Guide. https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf*
 
 
 ### Scrum-sykli
@@ -72,13 +72,14 @@ Scrum-menetelmä soveltuu erittäin hyvin ohjelmistokehityksessä käytettäväk
 Scrum parantaa tuotteen laatua, sillä ongelmat ja puutteet voidaan havaita ajoissa ja korjata lopulliseen tuotteeseen. Scrum-tiimin toiminta tiiviissä yhteistyössä asiakkaan kanssa edesauttaa, että asiakkaan tarpeet tunnistetaan oikein ja tuottetta kehitetään oikeaan suuntaan, jotta lopullinen tuote vastaa mahdollisimman hyvin asiakkaan tarpeita.
 
 ## Roolit Scrum-tiimissä
-Lähteenä: https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf
 
 Tiimin kullekin jäsenelle jaetaan kuhunkin tehtävään sopivat roolit, jotta projekti etenee sujuvasti. On hyvä, että jokaisella tiimin jäsenellä on omaan osaamistasoon sopiva rooli, jossa pystyy edistämään projektia sujuvasti eteenpäin.
 
 Scrum-perustana on pieni ja tiivis tiimi, jota kutsutaan Scrum-tiimiksi. Tiimi koostuu Scrum Masterista, tuoteomistajasta ja kehittäjistä. Scrum-tiimissä ei ole alatiimejä tai hierarkioita; se on itsenäinen, ammattilaisista koostuva yksikkö, joka keskittyy yhteen tavoitteeseen kerrallaan, Tuotteen tavoitteeseen.
 
 Scrum-tiimit ovat monipuolisia ja itseohjautuvia. Tämä tarkoittaa, että tiimi päättää itse, kuka tekee mitä, milloin ja miten. Scrum-tiimien koko on yleensä korkeintaan 10 henkilöä, jotta tiimi pysyy ketteränä mutta kykenee suorittamaan merkittävää työtä sprintin aikana. Liian suuriksi kasvaneet tiimit tulisi jakaa useisiin tiimeihin.
+
+*Lähde: Lähteenä: https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf*
 
 ### Kehittäjät (Developers)
 Scrum-tiimissä kehittäjät vastaavat kaiken käyttökelpoisen inkerementin tuottamisesta jokaisessa sprinsissä. Kehittäjillä tulee olla useita taitoja, jotka vaihtelevat aina toimialan mukaan. Kehittäjät vastaavat Scrum-tiimissä aina sprintin kehitysjonosta, laadun varmistamisesta noudattamalla valmiin määritelmää, suunnitelman mukauttamisesta päivittäin Sprintin saavuttamiseksi sekä toistensa kohtelemisesta vastuullisina ammattilaisina.
