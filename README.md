@@ -2,11 +2,6 @@
 Kuvitteellisen kehitystiimin Scrum-ohje
 
 
-## Roolit
-
-Tiimin kullekin jäsenelle jaetaan kuhunkin tehtävään sopivat roolit, jotta projekti etenee sujuvasti. On hyvä, että jokaisella tiimin jäsenellä on omaan osaamistasoon sopiva rooli, jossa pystyy edistämään projektia sujuvasti eteenpäin.
-
-
 ## Työjonot
 
 Kaksi päätyyppistä työjonoa:
@@ -83,6 +78,7 @@ Scrum parantaa tuotteen laatua, sillä ongelmat ja puutteet voidaan havaita ajoi
 ## Roolit Scrum-tiimissä
 Lähteenä: https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf
 
+Tiimin kullekin jäsenelle jaetaan kuhunkin tehtävään sopivat roolit, jotta projekti etenee sujuvasti. On hyvä, että jokaisella tiimin jäsenellä on omaan osaamistasoon sopiva rooli, jossa pystyy edistämään projektia sujuvasti eteenpäin.
 
 Scrum-perustana on pieni ja tiivis tiimi, jota kutsutaan Scrum-tiimiksi. Tiimi koostuu Scrum Masterista, tuoteomistajasta ja kehittäjistä. Scrum-tiimissä ei ole alatiimejä tai hierarkioita; se on itsenäinen, ammattilaisista koostuva yksikkö, joka keskittyy yhteen tavoitteeseen kerrallaan, Tuotteen tavoitteeseen.
 
