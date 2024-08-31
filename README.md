@@ -5,7 +5,7 @@ Kuvitteellisen kehitystiimin Scrum-ohje
 
 Kaksi päätyyppistä työjonoa:
 ### Tuotejono (Product Backlog)
-Syntyy vähitellen listaamaan mahdolliset tehtävät ja ominaisuudet tuotteelle. Tuotejono on jatkuvasti kehittyvä, järjestetty lista tarvittavista parannuksista tuotteeseen. Se on ainoa työlista, jota Scrum-tiimi käyttää. Backlogiin kuuluvat tehtävät, jotka tiimi voi suorittaa yhden Sprintin aikana, ovat valmiita valittavaksi Sprintin suunnittelussa. Näiden tehtävien tarkkuus paranee, kun niitä pilkotaan pienemmiksi ja tarkemmiksi osiksi Backlogin tarkennusvaiheessa. Tämä on jatkuva prosessi, jossa lisätään yksityiskohtia, kuten kuvaus, järjestys ja koko. Työn suorittavat kehittäjät vastaavat tehtävien koon arvioinnista, ja Tuoteomistaja voi vaikuttaa heihin auttamalla ymmärtämään eri vaihtoehtoja ja kompromisseja.
+Syntyy vähitellen listaamaan mahdolliset tehtävät ja ominaisuudet tuotteelle. Tuotejono on jatkuvasti kehittyvä, järjestetty lista tarvittavista parannuksista tuotteeseen. Se on ainoa työlista, jota Scrum-tiimi käyttää. Backlogiin kuuluvat tehtävät, jotka tiimi voi suorittaa yhden Sprintin aikana, ovat valmiita valittavaksi Sprintin suunnittelussa. Näiden tehtävien tarkkuus paranee, kun niitä pilkotaan pienemmiksi ja tarkemmiksi osiksi Backlogin tarkennusvaiheessa. Tämä on jatkuva prosessi, jossa lisätään yksityiskohtia, kuten kuvaus, järjestys ja koko. Työn suorittavat kehittäjät vastaavat tehtävien koon arvioinnista, ja tuoteomistaja voi vaikuttaa heihin auttamalla ymmärtämään eri vaihtoehtoja ja kompromisseja.
 
 Lähde:  Scrum Guide. https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf
 
@@ -39,8 +39,7 @@ Tuotteen kehitysjonoa päivitetään aktiivisesti yhdessä tuoteomistajan kanssa
 Jokaisen sprintin lopussa pidettävä palaveri, jossa katselmoidaan ja arvioidaan kehitettyä tuoteversiota. Tämän jälkeen muokataan tuotteen kehitysjonoa sopivaksi. Usein tuoteversiosta esitetään "demo", jonka pohjalta aletaan suunnittelemaan seuraavaa sprinttiä varten.
 
 ### Sprintin restrospektiivi
-Kehitystiimin oma palaveri, jossa pohditaan mahdollisia kehityskohteita sekä suunnitelmaa toteutettaville parannuksille seuraavassa sprintissä. 
-
+Kehitystiimin oma palaveri, jossa pohditaan mahdollisia kehityskohteita sekä suunnitelmaa toteutettaville parannuksille seuraavassa sprintissä.
 
 # Backlogit
 Scrumissa työjonot eli backlogit auttavat tiimiä organisoimaan ja priorisoimaan tehtäviä tehokkaasti. Backlogit tarjoavat näkyvyyden projektin nykyiseen tilaan ja tuleviin tehtäviin, mahdollistaen joustavan ja ketterän reagoinnin muutoksiin.
@@ -68,7 +67,6 @@ Definition of Done (DoD) on selkeä ja yhteisesti sovittu kriteeristö, joka mä
 
 
 ## Miksi Scrum toimii?
-
 Scrum-menetelmä soveltuu erittäin hyvin ohjelmistokehityksessä käytettäväksi, sillä se mahdollistaa helposti ohjelmiston jatkuvan parantamisen ja tarvittaviin muutoksiin voidaan reagoida nopeasti. Tiimin sujuva toiminta ja säännölliset palaverit varmistavat, että projekti etenee suunnitellussa aikataulussa eteenpäin. Toimintatapoja voidaan muuttaa projektin aikana ja työjonon säännöllinen läpikäynti varmistaa, että ohjelmiston kannalta tärkeimmät ja olennaisimmat toiminnallisuudet tulee tehtyä ensin.
 
 Scrum parantaa tuotteen laatua, sillä ongelmat ja puutteet voidaan havaita ajoissa ja korjata lopulliseen tuotteeseen. Scrum-tiimin toiminta tiiviissä yhteistyössä asiakkaan kanssa edesauttaa, että asiakkaan tarpeet tunnistetaan oikein ja tuottetta kehitetään oikeaan suuntaan, jotta lopullinen tuote vastaa mahdollisimman hyvin asiakkaan tarpeita.
@@ -83,13 +81,10 @@ Scrum-perustana on pieni ja tiivis tiimi, jota kutsutaan Scrum-tiimiksi. Tiimi k
 Scrum-tiimit ovat monipuolisia ja itseohjautuvia. Tämä tarkoittaa, että tiimi päättää itse, kuka tekee mitä, milloin ja miten. Scrum-tiimien koko on yleensä korkeintaan 10 henkilöä, jotta tiimi pysyy ketteränä mutta kykenee suorittamaan merkittävää työtä sprintin aikana. Liian suuriksi kasvaneet tiimit tulisi jakaa useisiin tiimeihin.
 
 ### Kehittäjät (Developers)
-
 Scrum-tiimissä kehittäjät vastaavat kaiken käyttökelpoisen inkerementin tuottamisesta jokaisessa sprinsissä. Kehittäjillä tulee olla useita taitoja, jotka vaihtelevat aina toimialan mukaan. Kehittäjät vastaavat Scrum-tiimissä aina sprintin kehitysjonosta, laadun varmistamisesta noudattamalla valmiin määritelmää, suunnitelman mukauttamisesta päivittäin Sprintin saavuttamiseksi sekä toistensa kohtelemisesta vastuullisina ammattilaisina.
 
 ### Tuoteomistaja (Product Owner)
-
 Tuoteomistaja on aina yksi henkilö. Tuoteomistaja on vastuussa Scrum-tiimin mahdollisimman suuren arvon toteuttamisesta. Tämä vaihtelee usein käytännössä organisaation, tiimien ja yksilöiden mukaan. Tuoteomistaja huolehtii tuotteen kehitysjonon  tehokkaasta hallinnasta. Tämä sisältää tuotteen tavoitteen määrittelyn, kehitysjonon sisällön valmistelun, sisällön järjestämisen, kehitysjonon läpinäkyvyyden, saatavuuden ja ymmärrettävyyden varmistamisen sekä selkeän viestinnän. Tuoteomistaja on aina vastuussa näistä tehtävistä, vaikka voikin halutessaan myös delegoida näitä tehtäviä muille. Koko organisaation tulee kunnioittaa tuoteomistajien päätöksiä, jotta tuoteomistajat voivat menestyä.
 
 ### Scrum Master
-
 Scrum Master vastaa Scrumin toteuttamisesta, auttaen tiimiä ja organisaatiota ymmärtämään ja soveltamaan Scrumia. Hän varmistaa tiimin tehokkuuden, edistää itseohjautuvuutta ja poistaa esteitä, samalla huolehtien, että Scrumin tapahtumat ovat tuottavia ja aikarajoissa. Tuoteomistajaa Scrum Master tukee tuotteen tavoitteen määrittelyssä, kehitysjonon hallinnassa ja sidosryhmien yhteistyössä. Organisaatiolle hän tarjoaa koulutusta ja valmennusta Scrumin käyttöönotossa sekä poistaa esteitä sidosryhmien ja tiimien välillä.
