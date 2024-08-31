@@ -1,5 +1,5 @@
 # Scrum-Ohje-Tiimi3
-Kuvitteellisen kehitystiimin Scrum-ohje
+Elite Innovators:in Scrum-ohje
 
 ## Työjonot
 
@@ -13,42 +13,6 @@ Syntyy vähitellen listaamaan mahdolliset tehtävät ja ominaisuudet tuotteelle.
 Sprintin työlista, joka koostuu kohteista, jotka tiimi pyrkii toteuttamaan sprintin aikana. Sprintin työjono koostuu sprintin tavoitteesta (miksi), sprintille valituista tuotejonon tehtävistä (mitä) ja toimintasuunnitelmasta inkrementin toteuttamiseksi (miten). Se on kehittäjien itselleen tekemä suunnitelma ja tarjoaa reaaliaikaisen kuvan työstä, joka heidän on tarkoitus suorittaa sprintin aikana tavoitteen saavuttamiseksi. SSprintin työjonoa päivitetään sprintin aikana uusien oppien mukaan, ja siinä tulee olla riittävästi yksityiskohtia, jotta kehittäjät voivat seurata edistymistään.
 
 *Lähde: Scrum Guide. https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf*
-
-
-### Scrum-sykli
-
-#### Sprintti
-Aikarajallinen ajanjakso, jonka sisällä tuotetaan kehitysjonon ja tehtävälistan perusteella "potentiaalisesti" valmis tuoteversio.
-
-
-#### Sprintin-suunnittelupalaveri 
-Suunnitellaan sprintin aikana tehty työ sekä määritellään työnjako.
-
-#### Päiväpalaveri 
-15 minuutin palaveri, jossa projektitiimi tahdittaa työn sekä laatii suunnitelman aina seuraavalle päivälle. Jokainen vuorollaan kertoo:
-1. Mitä on tehnyt viimeisen 24h aikana
-2. Mitä tulee tekemään seuraavan 24h aikana
-3. Onko esiintynyt ongelmia
-
-Päiväpalaverin päätavoite on optimoida työntekoa ja aina 15 minuuttia ei siihen riitä. Tällöin voidaan sopia erillinen tapaamisaika, jossa puretaan yksityiskohtaisemmin kaikki tarvittavat, esilletulleet asiat.
-
-### Tuotteen kehitysjonon työstö
-Tuotteen kehitysjonoa päivitetään aktiivisesti yhdessä tuoteomistajan kanssa, lisäämällä sinne työmääräarvioita, uusia tehtäviä sekä yksityiskohtia. Tämä on toistuva prosessi, jonka työmääräarvion päättää työntekijät (kehitystiimi) ja sisällön loppupeleissä tuoteomistaja. Kehitysjonon työstöön käytetään enintään 10% tiimin työkapasiteetista.
-
-### Sprinttikatselmus
-Jokaisen sprintin lopussa pidettävä palaveri, jossa katselmoidaan ja arvioidaan kehitettyä tuoteversiota. Tämän jälkeen muokataan tuotteen kehitysjonoa sopivaksi. Usein tuoteversiosta esitetään "demo", jonka pohjalta aletaan suunnittelemaan seuraavaa sprinttiä varten.
-
-### Sprintin restrospektiivi
-Kehitystiimin oma palaveri, jossa pohditaan mahdollisia kehityskohteita sekä suunnitelmaa toteutettaville parannuksille seuraavassa sprintissä.
-
-# Backlogit
-Scrumissa työjonot eli backlogit auttavat tiimiä organisoimaan ja priorisoimaan tehtäviä tehokkaasti. Backlogit tarjoavat näkyvyyden projektin nykyiseen tilaan ja tuleviin tehtäviin, mahdollistaen joustavan ja ketterän reagoinnin muutoksiin.
-
-## Product backlog
-Product backlog on priorisoitu lista kaikista ominaisuuksista, parannuksista, korjauksista ja muista tehtävistä, jotka ovat tarpeen tuotteen kehittämiseksi. Se toimii projektin "toivelistana" ja on jatkuvasti kehittyvä dokumentti, joka heijastaa tuotteen nykyisiä ja tulevia tarpeita
-
-## Sprint backlog
-Sprint backlog on alijoukko Product backlogista valituista tehtävistä, jotka tiimi sitoutuu suorittamaan seuraavan sprintin aikana. Se sisältää yksityiskohtaisen suunnitelman siitä, miten jaetaan työtehtävät sprintin ajalle, ja toimii tiimin päivittäisenä työlistana.
 
 ## Definition of Done (DoD)
 Definition of Done (DoD) on selkeä ja yhteisesti sovittu kriteeristö, joka määrittää, milloin tehtävä tai tuoteinkrementti on valmis. Se varmistaa, että kaikki tiimin jäsenet jakavat yhteisen ymmärryksen siitä, mitä "valmis" tarkoittaa, mikä puolestaan parantaa työn laatua ja vähentää epäselvyyksiä.
@@ -65,6 +29,30 @@ Definition of Done (DoD) on selkeä ja yhteisesti sovittu kriteeristö, joka mä
 * Koodi on läpäissyt koodikatselmoinnin
 * Ominaisuus on integroitu päähaaraan ja deployattu testausympäristöön.
 
+## Scrum-sykli
+
+### Sprintti
+Aikarajallinen ajanjakso, jonka sisällä tuotetaan kehitysjonon ja tehtävälistan perusteella "potentiaalisesti" valmis tuoteversio.
+
+### Sprintin-suunnittelupalaveri 
+Suunnitellaan sprintin aikana tehty työ sekä määritellään työnjako.
+
+### Päiväpalaveri 
+15 minuutin palaveri, jossa projektitiimi tahdittaa työn sekä laatii suunnitelman aina seuraavalle päivälle. Jokainen vuorollaan kertoo:
+1. Mitä on tehnyt viimeisen 24h aikana
+2. Mitä tulee tekemään seuraavan 24h aikana
+3. Onko esiintynyt ongelmia
+
+Päiväpalaverin päätavoite on optimoida työntekoa ja aina 15 minuuttia ei siihen riitä. Tällöin voidaan sopia erillinen tapaamisaika, jossa puretaan yksityiskohtaisemmin kaikki tarvittavat, esilletulleet asiat.
+
+### Tuotteen kehitysjonon työstö
+Tuotteen kehitysjonoa päivitetään aktiivisesti yhdessä tuoteomistajan kanssa, lisäämällä sinne työmääräarvioita, uusia tehtäviä sekä yksityiskohtia. Tämä on toistuva prosessi, jonka työmääräarvion päättää työntekijät (kehitystiimi) ja sisällön loppupeleissä tuoteomistaja. Kehitysjonon työstöön käytetään enintään 10% tiimin työkapasiteetista.
+
+### Sprinttikatselmus
+Jokaisen sprintin lopussa pidettävä palaveri, jossa katselmoidaan ja arvioidaan kehitettyä tuoteversiota. Tämän jälkeen muokataan tuotteen kehitysjonoa sopivaksi. Usein tuoteversiosta esitetään "demo", jonka pohjalta aletaan suunnittelemaan seuraavaa sprinttiä varten.
+
+### Sprintin restrospektiivi
+Kehitystiimin oma palaveri, jossa pohditaan mahdollisia kehityskohteita sekä suunnitelmaa toteutettaville parannuksille seuraavassa sprintissä.
 
 ## Miksi Scrum toimii?
 Scrum-menetelmä soveltuu erittäin hyvin ohjelmistokehityksessä käytettäväksi, sillä se mahdollistaa helposti ohjelmiston jatkuvan parantamisen ja tarvittaviin muutoksiin voidaan reagoida nopeasti. Tiimin sujuva toiminta ja säännölliset palaverit varmistavat, että projekti etenee suunnitellussa aikataulussa eteenpäin. Toimintatapoja voidaan muuttaa projektin aikana ja työjonon säännöllinen läpikäynti varmistaa, että ohjelmiston kannalta tärkeimmät ja olennaisimmat toiminnallisuudet tulee tehtyä ensin.
