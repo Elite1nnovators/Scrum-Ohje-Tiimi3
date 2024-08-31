@@ -7,7 +7,15 @@ Kaksi päätyyppistä työjonoa:
 ### Tuotejono (Product Backlog)
 Syntyy vähitellen listaamaan mahdolliset tehtävät ja ominaisuudet tuotteelle. Tuotejono on jatkuvasti kehittyvä, järjestetty lista tarvittavista parannuksista tuotteeseen. Se on ainoa työlista, jota Scrum-tiimi käyttää. Backlogiin kuuluvat tehtävät, jotka tiimi voi suorittaa yhden Sprintin aikana, ovat valmiita valittavaksi Sprintin suunnittelussa. Näiden tehtävien tarkkuus paranee, kun niitä pilkotaan pienemmiksi ja tarkemmiksi osiksi Backlogin tarkennusvaiheessa. Tämä on jatkuva prosessi, jossa lisätään yksityiskohtia, kuten kuvaus, järjestys ja koko. Työn suorittavat kehittäjät vastaavat tehtävien koon arvioinnista, ja Tuoteomistaja voi vaikuttaa heihin auttamalla ymmärtämään eri vaihtoehtoja ja kompromisseja.
 
+<<<<<<< HEAD
 Lähde:  Scrum Guide. https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf
+=======
+testimuutos
+
+
+Sprintit 
+Kiinteä ajanjako, jonka aikana tiimi työskentelee valittujen tehtävien parissa. Sprinttiin ei lisätä uusia tehtäviä.  Sprintin aikana tiimi kehittää testaa ja valmistelee toimituskelpoisia tuotteen osia. 
+>>>>>>> rowina
 
 
 ### Sprintin työjono (Sprint Backlog)
