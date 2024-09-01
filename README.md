@@ -65,6 +65,7 @@ Scrum-menetelmä soveltuu erittäin hyvin ohjelmistokehityksessä käytettäväk
 
 Scrum parantaa tuotteen laatua, sillä ongelmat ja puutteet voidaan havaita ajoissa ja korjata lopulliseen tuotteeseen. Scrum-tiimin toiminta tiiviissä yhteistyössä asiakkaan kanssa edesauttaa, että asiakkaan tarpeet tunnistetaan oikein ja tuottetta kehitetään oikeaan suuntaan, jotta lopullinen tuote vastaa mahdollisimman hyvin asiakkaan tarpeita.
 
+
 ## Roolit Scrum-tiimissä
 
 Tiimin kullekin jäsenelle jaetaan kuhunkin tehtävään sopivat roolit, jotta projekti etenee sujuvasti. On hyvä, että jokaisella tiimin jäsenellä on omaan osaamistasoon sopiva rooli, jossa pystyy edistämään projektia sujuvasti eteenpäin.
