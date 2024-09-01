@@ -13,6 +13,7 @@ Scrum-menetelmä soveltuu erittäin hyvin ohjelmistokehityksessä käytettäväk
 Scrum parantaa tuotteen laatua, sillä ongelmat ja puutteet voidaan havaita ajoissa ja korjata lopulliseen tuotteeseen. Scrum-tiimin toiminta tiiviissä yhteistyössä asiakkaan kanssa edesauttaa, että asiakkaan tarpeet tunnistetaan oikein ja tuottetta kehitetään oikeaan suuntaan, jotta lopullinen tuote vastaa mahdollisimman hyvin asiakkaan tarpeita.
 
 
+
 ## Johdanto Scrum -menetelmään
 
 Scrum on yleisesti ohjelmistokehityksessä käytetty ketterä projektinhallintamenetelmä. Scrumin perustana ovat säännöllisesti toistuvat määrämittaiset sprintit, joiden aikana lopullista tuotetta kehitetään yksi vaihe kerrallaan eteenpäin. Vaiheet on koottu työjonoon, josta sprinttiin otetaan yksi vaihe kerrallaan työstettäväksi tärkeysjärjestyksessä, jolloin tärkeimmät toiminnallisuudet toteutetaan ensin.
