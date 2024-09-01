@@ -1,11 +1,17 @@
 
 
-
-
-
-
 # Scrum-Ohje-Tiimi3
 Elite Innovators:in Scrum-ohje
+
+## Johdanto Scrum -menetelmään
+
+Scrum on yleisesti ohjelmistokehityksessä käytetty ketterä projektinhallintamenetelmä. Scrumin perustana ovat säännöllisesti toistuvat määrämittaiset sprintit, joiden aikana lopullista tuotetta kehitetään yksi vaihe kerrallaan eteenpäin. Vaiheet on koottu työjonoon, josta sprinttiin otetaan yksi vaihe kerrallaan työstettäväksi tärkeysjärjestyksessä, jolloin tärkeimmät toiminnallisuudet toteutetaan ensin.
+
+Työskentely tapahtuu scrum-tiimissä, jossa jokaiselle jäsenelle on annettu selkeä tehtävä projektissa. Tiimi pitää säännöllisesti scrum-palavereja sekä sprintin lopussa katselmuksen, jossa tarkastellaan ja arvioidaan sprintin lopputulosta sekä sovitaan tulevan sprintin sisällöstä.
+
+Scrum -menetelmän avulla on mahdollista kehittää tehokkaasti laadukkaita ja testattuja tuotteita, jotka vastaavat mahdollisimman hyvin asiakkaan tarpeita.
+Alla on kuvattu tarkemmin Scrum-syklin vaiheita, työjonoja sekä scrum-tiimin eri rooleja.
+
 
 ## Työjonot
 
