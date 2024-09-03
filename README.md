@@ -1,7 +1,7 @@
 
-
 # Scrum-Ohje-Tiimi3
 Elite Innovators:in Scrum-ohje
+
 
 ## Johdanto Scrum -menetelmään
 
@@ -9,8 +9,7 @@ Scrum on yleisesti ohjelmistokehityksessä käytetty ketterä projektinhallintam
 
 Työskentely tapahtuu scrum-tiimissä, jossa jokaiselle jäsenelle on annettu selkeä tehtävä projektissa. Tiimi pitää säännöllisesti scrum-palavereja sekä sprintin lopussa katselmuksen, jossa tarkastellaan ja arvioidaan sprintin lopputulosta sekä sovitaan tulevan sprintin sisällöstä.
 
-Scrum -menetelmän avulla on mahdollista kehittää tehokkaasti laadukkaita ja testattuja tuotteita, jotka vastaavat mahdollisimman hyvin asiakkaan tarpeita.
-Alla on kuvattu tarkemmin Scrum-syklin vaiheita, työjonoja sekä scrum-tiimin eri rooleja.
+Scrum -menetelmän avulla on mahdollista kehittää tehokkaasti laadukkaita ja testattuja tuotteita, jotka vastaavat mahdollisimman hyvin asiakkaan tarpeita. Alla on kuvattu tarkemmin Scrum-syklin vaiheita, työjonoja sekä scrum-tiimin eri rooleja.
 
 
 ## Työjonot
@@ -26,6 +25,7 @@ Sprintin työlista, joka koostuu kohteista, jotka tiimi pyrkii toteuttamaan spri
 
 *Lähde: Scrum Guide. https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf*
 
+
 ## Definition of Done (DoD)
 Definition of Done (DoD) on selkeä ja yhteisesti sovittu kriteeristö, joka määrittää, milloin tehtävä tai tuoteinkrementti on valmis. Se varmistaa, että kaikki tiimin jäsenet jakavat yhteisen ymmärryksen siitä, mitä "valmis" tarkoittaa, mikä puolestaan parantaa työn laatua ja vähentää epäselvyyksiä.
 
@@ -40,6 +40,7 @@ Definition of Done (DoD) on selkeä ja yhteisesti sovittu kriteeristö, joka mä
 * Ominaisuus on dokumentoitu asianmukaisesti
 * Koodi on läpäissyt koodikatselmoinnin
 * Ominaisuus on integroitu päähaaraan ja deployattu testausympäristöön.
+
 
 ## Scrum-sykli
 
@@ -66,10 +67,17 @@ Jokaisen sprintin lopussa pidettävä palaveri, jossa katselmoidaan ja arvioidaa
 ### Sprintin restrospektiivi
 Kehitystiimin oma palaveri, jossa pohditaan mahdollisia kehityskohteita sekä suunnitelmaa toteutettaville parannuksille seuraavassa sprintissä.
 
-## Miksi Scrum toimii?
-Scrum-menetelmä soveltuu erittäin hyvin ohjelmistokehityksessä käytettäväksi, sillä se mahdollistaa helposti ohjelmiston jatkuvan parantamisen ja tarvittaviin muutoksiin voidaan reagoida nopeasti. Tiimin sujuva toiminta ja säännölliset palaverit varmistavat, että projekti etenee suunnitellussa aikataulussa eteenpäin. Toimintatapoja voidaan muuttaa projektin aikana ja työjonon säännöllinen läpikäynti varmistaa, että ohjelmiston kannalta tärkeimmät ja olennaisimmat toiminnallisuudet tulee tehtyä ensin.
 
-Scrum parantaa tuotteen laatua, sillä ongelmat ja puutteet voidaan havaita ajoissa ja korjata lopulliseen tuotteeseen. Scrum-tiimin toiminta tiiviissä yhteistyössä asiakkaan kanssa edesauttaa, että asiakkaan tarpeet tunnistetaan oikein ja tuottetta kehitetään oikeaan suuntaan, jotta lopullinen tuote vastaa mahdollisimman hyvin asiakkaan tarpeita.
+## Scrum-syklin lisäkäsitteitä
+
+### Sprintin Tavoite (Sprint Goal)
+Sprintin tavoite on lyhyt ja selkeä lausunto, joka määrittää sen, mitä tiimin tulisi saavuttaa sprintin aikana. Tavoite toimii tiimille yhtenäisenä suunnannäyttäjänä ja auttaa keskittymään tärkeimpään työhön sprintin aikana. Sprintin tavoite päätetään sprintin suunnittelupalaverissa, ja sen tulisi olla saavutettavissa sprintin aikana valittujen tuotejonon kohteiden avulla. Selkeä ja hyvin määritelty sprintin tavoite auttaa myös sidosryhmiä ymmärtämään sprintin suuntaa ja arvoa.
+
+### Inkrementti
+Inkrementti on lopputulos, joka syntyy sprintin aikana valmiiksi saaduista tuotejonon kohteista. Jokaisen sprintin päätteeksi syntyy inkrementti, joka on potentiaalisesti julkaisukelpoinen ja täyttää Definition of Donen (DoD) kriteerit. Inkrementti ei ole vain yksi ominaisuus tai tehtävä, vaan se on kaikki sprintin aikana valmistuneet kohteet yhteensä, jotka tuottavat lisäarvoa tuotteelle. Tärkeää on, että inkrementti on aina yhteensopiva aiempien inkrementtien kanssa, muodostaen näin jatkuvasti kehittyvän tuotteen.
+
+### Scrum-metriikat
+Scrum-tiimit käyttävät usein erilaisia metriikoita seuratakseen edistymistään ja parantaakseen prosessiaan. Yleisimpiä metriikoita ovat esimerkiksi sprinttien aikana käytettävä nopeus (velocity), joka mittaa tiimin kykyä suorittaa tehtäviä, ja burndown-kaaviot, jotka havainnollistavat sprintin aikana jäljellä olevaa työtä. Nämä metriikat auttavat tiimiä seuraamaan edistymistään, ennustamaan tulevaa suorituskykyä ja tunnistamaan mahdolliset esteet ajoissa. On tärkeää, että metriikoita käytetään tiimin tukena, ei sen arvioimiseen, ja että ne tukevat tiimin jatkuvaa parantamista.
 
 
 ## Roolit Scrum-tiimissä
@@ -90,4 +98,11 @@ Tuoteomistaja on aina yksi henkilö. Tuoteomistaja on vastuussa Scrum-tiimin mah
 
 ### Scrum Master
 Scrum Master vastaa Scrumin toteuttamisesta, auttaen tiimiä ja organisaatiota ymmärtämään ja soveltamaan Scrumia. Hän varmistaa tiimin tehokkuuden, edistää itseohjautuvuutta ja poistaa esteitä, samalla huolehtien, että Scrumin tapahtumat ovat tuottavia ja aikarajoissa. Tuoteomistajaa Scrum Master tukee tuotteen tavoitteen määrittelyssä, kehitysjonon hallinnassa ja sidosryhmien yhteistyössä. Organisaatiolle hän tarjoaa koulutusta ja valmennusta Scrumin käyttöönotossa sekä poistaa esteitä sidosryhmien ja tiimien välillä.
+
+
+## Miksi Scrum toimii?
+
+Scrum-menetelmä soveltuu erittäin hyvin ohjelmistokehityksessä käytettäväksi, sillä se mahdollistaa helposti ohjelmiston jatkuvan parantamisen ja tarvittaviin muutoksiin voidaan reagoida nopeasti. Tiimin sujuva toiminta ja säännölliset palaverit varmistavat, että projekti etenee suunnitellussa aikataulussa eteenpäin. Toimintatapoja voidaan muuttaa projektin aikana ja työjonon säännöllinen läpikäynti varmistaa, että ohjelmiston kannalta tärkeimmät ja olennaisimmat toiminnallisuudet tulee tehtyä ensin.
+
+Scrum parantaa tuotteen laatua, sillä ongelmat ja puutteet voidaan havaita ajoissa ja korjata lopulliseen tuotteeseen. Scrum-tiimin toiminta tiiviissä yhteistyössä asiakkaan kanssa edesauttaa, että asiakkaan tarpeet tunnistetaan oikein ja tuottetta kehitetään oikeaan suuntaan, jotta lopullinen tuote vastaa mahdollisimman hyvin asiakkaan tarpeita.
 
