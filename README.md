@@ -2,6 +2,16 @@
 # Scrum-Ohje-Tiimi3
 Elite Innovators:in Scrum-ohje
 
+
+## Johdanto Scrum -menetelmään
+
+Scrum on yleisesti ohjelmistokehityksessä käytetty ketterä projektinhallintamenetelmä. Scrumin perustana ovat säännöllisesti toistuvat määrämittaiset sprintit, joiden aikana lopullista tuotetta kehitetään yksi vaihe kerrallaan eteenpäin. Vaiheet on koottu työjonoon, josta sprinttiin otetaan yksi vaihe kerrallaan työstettäväksi tärkeysjärjestyksessä, jolloin tärkeimmät toiminnallisuudet toteutetaan ensin.
+
+Työskentely tapahtuu scrum-tiimissä, jossa jokaiselle jäsenelle on annettu selkeä tehtävä projektissa. Tiimi pitää säännöllisesti scrum-palavereja sekä sprintin lopussa katselmuksen, jossa tarkastellaan ja arvioidaan sprintin lopputulosta sekä sovitaan tulevan sprintin sisällöstä.
+
+Scrum -menetelmän avulla on mahdollista kehittää tehokkaasti laadukkaita ja testattuja tuotteita, jotka vastaavat mahdollisimman hyvin asiakkaan tarpeita. Alla on kuvattu tarkemmin Scrum-syklin vaiheita, työjonoja sekä scrum-tiimin eri rooleja.
+
+
 ## Työjonot
 
 **Kaksi päätyyppistä työjonoa:**
@@ -30,6 +40,7 @@ Definition of Done (DoD) on selkeä ja yhteisesti sovittu kriteeristö, joka mä
 * Koodi on läpäissyt koodikatselmoinnin
 * Ominaisuus on integroitu päähaaraan ja deployattu testausympäristöön.
 
+
 ## Scrum-sykli
 
 ### Sprintti
@@ -55,7 +66,11 @@ Jokaisen sprintin lopussa pidettävä palaveri, jossa katselmoidaan ja arvioidaa
 ### Sprintin restrospektiivi
 Kehitystiimin oma palaveri, jossa pohditaan mahdollisia kehityskohteita sekä suunnitelmaa toteutettaville parannuksille seuraavassa sprintissä.
 
-# Scrum-syklin lisäkäsitteitä
+### Sprintin-suunnittelupalaveri 
+Suunnitellaan sprintin aikana tehty työ sekä määritellään työnjako.
+
+
+## Scrum-syklin lisäkäsitteitä
 
 ### Sprintin Tavoite (Sprint Goal)
 
@@ -69,12 +84,6 @@ Inkrementti on lopputulos, joka syntyy sprintin aikana valmiiksi saaduista tuote
 
 Scrum-tiimit käyttävät usein erilaisia metriikoita seuratakseen edistymistään ja parantaakseen prosessiaan. Yleisimpiä metriikoita ovat esimerkiksi sprinttien aikana käytettävä nopeus (velocity), joka mittaa tiimin kykyä suorittaa tehtäviä, ja burndown-kaaviot, jotka havainnollistavat sprintin aikana jäljellä olevaa työtä. Nämä metriikat auttavat tiimiä seuraamaan edistymistään, ennustamaan tulevaa suorituskykyä ja tunnistamaan mahdolliset esteet ajoissa. On tärkeää, että metriikoita käytetään tiimin tukena, ei sen arvioimiseen, ja että ne tukevat tiimin jatkuvaa parantamista.
 
-## Miksi Scrum toimii?
-Scrum-menetelmä soveltuu erittäin hyvin ohjelmistokehityksessä käytettäväksi, sillä se mahdollistaa helposti ohjelmiston jatkuvan parantamisen ja tarvittaviin muutoksiin voidaan reagoida nopeasti. Tiimin sujuva toiminta ja säännölliset palaverit varmistavat, että projekti etenee suunnitellussa aikataulussa eteenpäin. Toimintatapoja voidaan muuttaa projektin aikana ja työjonon säännöllinen läpikäynti varmistaa, että ohjelmiston kannalta tärkeimmät ja olennaisimmat toiminnallisuudet tulee tehtyä ensin.
-
-
-#### Sprintin-suunnittelupalaveri 
-Suunnitellaan sprintin aikana tehty työ sekä määritellään työnjako.
 
 ## Roolit Scrum-tiimissä
 
@@ -96,16 +105,11 @@ Tuoteomistaja on aina yksi henkilö. Tuoteomistaja on vastuussa Scrum-tiimin mah
 Scrum Master vastaa Scrumin toteuttamisesta, auttaen tiimiä ja organisaatiota ymmärtämään ja soveltamaan Scrumia. Hän varmistaa tiimin tehokkuuden, edistää itseohjautuvuutta ja poistaa esteitä, samalla huolehtien, että Scrumin tapahtumat ovat tuottavia ja aikarajoissa. Tuoteomistajaa Scrum Master tukee tuotteen tavoitteen määrittelyssä, kehitysjonon hallinnassa ja sidosryhmien yhteistyössä. Organisaatiolle hän tarjoaa koulutusta ja valmennusta Scrumin käyttöönotossa sekä poistaa esteitä sidosryhmien ja tiimien välillä.
 
 
-
+## Miksi Scrum toimii?
+Scrum-menetelmä soveltuu erittäin hyvin ohjelmistokehityksessä käytettäväksi, sillä se mahdollistaa helposti ohjelmiston jatkuvan parantamisen ja tarvittaviin muutoksiin voidaan reagoida nopeasti. Tiimin sujuva toiminta ja säännölliset palaverit varmistavat, että projekti etenee suunnitellussa aikataulussa eteenpäin. Toimintatapoja voidaan muuttaa projektin aikana ja työjonon säännöllinen läpikäynti varmistaa, että ohjelmiston kannalta tärkeimmät ja olennaisimmat toiminnallisuudet tulee tehtyä ensin.
 
 Scrum parantaa tuotteen laatua, sillä ongelmat ja puutteet voidaan havaita ajoissa ja korjata lopulliseen tuotteeseen. Scrum-tiimin toiminta tiiviissä yhteistyössä asiakkaan kanssa edesauttaa, että asiakkaan tarpeet tunnistetaan oikein ja tuottetta kehitetään oikeaan suuntaan, jotta lopullinen tuote vastaa mahdollisimman hyvin asiakkaan tarpeita.
 
 
 
-## Johdanto Scrum -menetelmään
 
-Scrum on yleisesti ohjelmistokehityksessä käytetty ketterä projektinhallintamenetelmä. Scrumin perustana ovat säännöllisesti toistuvat määrämittaiset sprintit, joiden aikana lopullista tuotetta kehitetään yksi vaihe kerrallaan eteenpäin. Vaiheet on koottu työjonoon, josta sprinttiin otetaan yksi vaihe kerrallaan työstettäväksi tärkeysjärjestyksessä, jolloin tärkeimmät toiminnallisuudet toteutetaan ensin.
-
-Työskentely tapahtuu scrum-tiimissä, jossa jokaiselle jäsenelle on annettu selkeä tehtävä projektissa. Tiimi pitää säännöllisesti scrum-palavereja sekä sprintin lopussa katselmuksen, jossa tarkastellaan ja arvioidaan sprintin lopputulosta sekä sovitaan tulevan sprintin sisällöstä.
-
-Scrum -menetelmän avulla on mahdollista kehittää tehokkaasti laadukkaita ja testattuja tuotteita, jotka vastaavat mahdollisimman hyvin asiakkaan tarpeita. Alla on kuvattu tarkemmin Scrum-syklin vaiheita, työjonoja sekä scrum-tiimin eri rooleja.
